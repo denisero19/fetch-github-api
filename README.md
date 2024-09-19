@@ -1,6 +1,31 @@
-# Projeto Inicial Fetch Github API
+# Projeto Fetch Github API
 
-Um projeto inicial de Fetch GitHub API onde o usuário pode procurar por programadores cadastrados no GitHub para poder ver seus projetos. Contém o título "Buscar Usuário" e logo embaixo possue uma caixa "Digite o nome do usuário no GitHub" e o botão Buscar. No caso de usuário inexistente, aparecerá a mensagem "Usuário não encontrado". Já para usuário existente, assim que clicar no botão Buscar, aparecerá a foto, nome e frase colocada pelo programador que consta no GitHub. Logo abaixo será listado os botões clicáveis dos 10 mais recentes repositórios que direcionam para o GitHub. No caso do usuário esquecer de digitar no campo "Digite o nome do usuário no GitHub" e clicar no botão Buscar, aparecerá a frase "Preencha o campo com o nome do usuário do GitHub". Para telas de desktops, tablets e celulares 📲💻
+Projeto para aprimorar o conhecimento aprendido de busca de API do GitHub.
+
+Objetivos - mostrar: 
+⁎ Imagem do usuário
+⁎ Nome completo do usuário
+⁎ Login do usuário
+⁎ Bio do usuário
+⁎ Número de seguidores do usuário
+⁎ Número de pessoas que o usuário está seguindo
+⁎ A tela com uma lista de até 10 últimos eventos do usuário com os tipos CreateEvent e PushEvent
+⁎ A atividade do tipo CreateEvent com a mensagem "Sem mensagem de commit"
+⁎ Nome do repositório
+⁎ Link do repositório
+⁎ Quantidade de forks do repositório
+⁎ Quantidade de estrelas do repositório
+⁎ Quantiddade de watchers do repositório
+⁎ A linguagem de programação do repositório
+
+Foram criados mecanismos de busca com botão Buscar para:
+1) Usuários inexistentes trazer a mensagem de "Usuário não encontrado!";
+
+2) Para quando do esquecimento de digitar o usuário trazer a mensagem "Preencha o campo com o nome do usuário do GitHub";
+
+3) Para os usuários existentes   aparecer as informações do usuário como sua bio, seus repositórios que ao clicar neles leva para a página do GitHub e os eventos.
+
+Para telas de desktops, tablets e celulares 📲💻
 
 <img src="./desktop.gif" alt="Imagem do desktop">
 
