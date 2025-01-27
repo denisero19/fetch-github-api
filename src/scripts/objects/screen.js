@@ -25,7 +25,7 @@ const screen = {
                         <li>🍴 ${repo.forks_count}</li>
                         <li>⭐ ${repo.stargazers_count}</li>
                         <li>👀 ${repo.watchers_count}</li>
-                        <li>👩‍💻 ${repo.language ?? ""}</li>
+                        <li>👩‍💻 ${repo.language ?? "no language"}</li>
                     </ul>    
                   </div>
                 </a>

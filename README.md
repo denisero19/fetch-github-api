@@ -15,7 +15,7 @@ Objetivos - mostrar:
 ⁎ Link do repositório
 ⁎ Quantidade de forks do repositório
 ⁎ Quantidade de estrelas do repositório
-⁎ Quantiddade de watchers do repositório
+⁎ Quantidade de watchers do repositório
 ⁎ A linguagem de programação do repositório
 
 Foram criados mecanismos de busca com botão Buscar para:
