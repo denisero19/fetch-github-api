@@ -35,6 +35,7 @@ Para telas de desktops, tablets e celulares 📲💻
 - HTML
 - CSS
 - JAVASCRIPT
+- API
 
 ## 📂 Acesso ao projeto
 
